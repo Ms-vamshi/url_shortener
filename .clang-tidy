@@ -1,0 +1,4 @@
+---
+Checks:          'clang-diagnostic-*,clang-analyzer-*,*,-google-readability-namespace-comments,-fuchsia-default-arguments,-llvm-namespace-comment,-google-runtime-int'
+...
+
